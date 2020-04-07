@@ -4,9 +4,11 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<!--img class="overview-image" src=""-->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+Keeping a journal as you work on a project is a great way to keep track if your ideas and your progress. For many people who work remotely it is also an aid in being accountable to themselves and their collaborators. So…
+
+Please keep a journal of your work – a Google Doc would be an easy way to do it.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
