@@ -4,19 +4,14 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-After completing the lesson:
+After creating your study journal (and making a bookmark for it) please get a shared link to it and submit it through Canvas:
+1. Click on the blue **Share** button in the upper right hand corner of the Google Docs window.
+1. In the **Share with others** dialog select "Anyone with the link **can comment**", then click on the **Copy link** button.
+1. In Canvas click on the **Submit Assignment** button.
+1. Paste the link for your Study Journal into the URL field.
+1. Click on the **Submit Assignment** botton.
 
-1. Make sure that you have:
-   - Commited your changes to the **{{site.data.assignment.git-curr-branch}}** branch.
-   - Merged the **{{site.data.assignment.git-curr-branch}}** branch into your **master** branch.
-   - Pushed your work to GitHub.
-   - Confirmed that you see your changes on GitHub.
-1. Then, make a copy of the [submission template][copy-template].
-1. Rename the template and move it to your class folder on your Google Drive.
-1. Complete the template.
-1. Submit as usual.
-
-{% include submission-boilerplate.html %}
+You should now see that the blue button in the upper right-hand corner of Canvas is named **Resubmit Assignment.**
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
